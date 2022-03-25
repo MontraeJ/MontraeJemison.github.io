@@ -1,10 +1,12 @@
 *{
-    box-sizing:border-box;
+    box-sizing: border-box;
 
     body {
+        h1, h2
         margin: 0;
     }
     p{
         background-color: #88A0A8;
+        color: #d3ab7f;
     }
 }
