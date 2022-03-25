@@ -1,12 +1,18 @@
-*{
+*  
+html {
     box-sizing: border-box;
-
-    body {
-        h1, h2
-        margin: 0;
-    }
-    p{
-        background-color: #88A0A8;
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+ h1{
+        /* background-color:  #d3ab7f; */
         color: #d3ab7f;
     }
+h1{
+    padding: 25px;
+    margin: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #88A0A8;
 }
